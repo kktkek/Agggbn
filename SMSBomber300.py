@@ -10,6 +10,9 @@ init()
 git clone https://github.com/lvan-
 Hacker-700/SMSBomber300
 python SMSBomber300.py
++967781938774
+http://t.me/HackersArabic54
+
 pip install -r requirements.txt
 os.system("title SMS-Bomber-300")
 version = 'Бета'
@@ -19,6 +22,7 @@ check_update()
 time.sleep(1.8)
 OSystem()
 start()
+
 
 
 
